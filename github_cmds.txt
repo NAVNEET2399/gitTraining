@@ -1,0 +1,7 @@
+1.	git config –global user.name Anurag – For configuring the name 
+2.	git config –global user.email beaprogrammer24@gmail.com – to set the email 
+3.	git config –global user.name – For checking the changes have been affected
+4.	git config –global user.email - For checking the changes have been affected
+5.	code . – to open the VS Code
+6.	git init – initialize the git repository 
+7.	ls -lart – To see the Hidden files
