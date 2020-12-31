@@ -7,3 +7,5 @@
 7.	ls -la –> To see the Hidden files
 8.  git add -a 
 9.  git commit -m "message"
+10.	touch  .gitignore -Files that you don’t want tag 
+11.	touch mylog.log -Example of log file write anything
