@@ -5,3 +5,5 @@
 5.	code . –> to open the VS Code
 6.	git init –> initialize the git repository 
 7.	ls -la –> To see the Hidden files
+8.  git add -a 
+9.  git commit -m "message"
