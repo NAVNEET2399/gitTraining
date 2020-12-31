@@ -1,0 +1,2 @@
+# gitTraining
+Learning github
